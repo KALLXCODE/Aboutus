@@ -92,6 +92,7 @@ text-align: center;
 	background-size: cover;
 	background-position: center center;
 	transition: transform .6s;
+	-webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
 
 }
 
